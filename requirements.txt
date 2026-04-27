@@ -40,7 +40,7 @@ botocore @ file:///croot/botocore_1714460531862/work
 Bottleneck @ file:///croot/bottleneck_1709069899917/work
 Brotli @ file:///croot/brotli-split_1714483155106/work
 cachetools @ file:///croot/cachetools_1713977085444/work
-certifi @ file:///croot/certifi_1725551672989/work/certifi
+certifi @ file:///croot/certifi_1754570635119/work/certifi
 cffi @ file:///croot/cffi_1726856441404/work
 chardet @ file:///work/perseverance-python-buildout/croot/chardet_1698867756032/work
 charset-normalizer @ file:///croot/charset-normalizer_1721748349566/work
@@ -49,7 +49,7 @@ cloudpickle @ file:///croot/cloudpickle_1721657346512/work
 colorama @ file:///work/perseverance-python-buildout/croot/colorama_1698847155966/work
 colorcet @ file:///croot/colorcet_1709758348067/work
 comm @ file:///croot/comm_1709322850197/work
-conda @ file:///croot/conda_1729193882500/work
+conda @ file:///croot/conda_1736277811838/work
 conda-build @ file:///croot/conda-build_1726839912356/work
 conda-content-trust @ file:///croot/conda-content-trust_1714483159009/work
 conda-libmamba-solver @ file:///croot/conda-libmamba-solver_1727775630457/work/src
@@ -221,6 +221,8 @@ py-cpuinfo @ file:///work/perseverance-python-buildout/croot/py-cpuinfo_16988653
 pyarrow @ file:///croot/pyarrow_1721664224170/work/python
 pyasn1 @ file:///Users/ktietz/demo/mc3/conda-bld/pyasn1_1629708007385/work
 pyasn1-modules==0.2.8
+pybind11 @ file:///croot/pybind11-split_1738944777954/work
+pybind11_global @ file:///croot/pybind11-split_1738944777954/work
 pycodestyle @ file:///croot/pycodestyle_1701910164456/work
 pycosat @ file:///croot/pycosat_1714510623388/work
 pycparser @ file:///tmp/build/80754af9/pycparser_1636541352034/work
