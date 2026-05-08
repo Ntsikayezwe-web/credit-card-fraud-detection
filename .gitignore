@@ -14,3 +14,12 @@ venv/
 
 # VSCode
 .vscode/
+
+# Saved model and preprocessor files
+*.joblib
+*.pkl
+*.pt
+*.pth
+
+# Processed data
+data/processed/
